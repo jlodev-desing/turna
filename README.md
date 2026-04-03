@@ -1,72 +1,72 @@
-# 🗓️ Turna — Calendario de turnos gratis
+# 🗓️ Turna — Free Shift Calendar
 
-**Tu calendario de turnos inteligente.** Organiza tus turnos de trabajo, genera secuencias rotativas y comparte con tu pareja o compañeros. Gratis, sin anuncios, para siempre.
+**Your smart shift calendar.** Organize your work shifts, generate rotating sequences and share with your partner or coworkers. Free, no ads, forever.
 
-🌐 **Web:** [turna.es](https://turna.es)
-📱 **App:** [app.turna.es](https://app.turna.es)
-▶️ **Google Play:** [Descargar](https://play.google.com/store/apps/details?id=com.jlodev.turna)
+🌐 **Website:** [turna.es](https://turna.es)
+📱 **Web App:** [app.turna.es](https://app.turna.es)
+▶️ **Google Play:** [Download](https://play.google.com/store/apps/details?id=com.jlodev.turna)
 
 ---
 
-## ✨ Funciones
+## ✨ Features
 
-- 🎨 **Modo Pintar** — Selecciona un turno y toca los días para pintarlos. Configura un mes en segundos.
-- 🔄 **Generador de secuencias** — Define tu patrón (Mañana → Tarde → Noche → Libre → Libre) y genera meses completos automáticamente.
-- 👥 **Calendarios compartidos** — Comparte con tu pareja o compañeros. Ve ambos turnos superpuestos con la vista diagonal.
-- 📊 **Estadísticas** — Horas trabajadas, días libres y desglose por tipo de turno.
-- 🌙 **Modo oscuro** — Perfecto para turnos de noche.
-- 📝 **Notas y eventos** — Apunta notas rápidas en cualquier día.
-- 📲 **App instalable** — PWA + TWA en Google Play. Funciona en cualquier dispositivo.
+- 🎨 **Paint Mode** — Select a shift and tap the days to paint them. Set up a full month in seconds.
+- 🔄 **Sequence Generator** — Define your pattern (Morning → Afternoon → Night → Off → Off) and generate full months automatically.
+- 👥 **Shared Calendars** — Share with your partner or coworkers. See both shifts overlaid with the diagonal view.
+- 📊 **Statistics** — Hours worked, days off and breakdown by shift type.
+- 🌙 **Dark Mode** — Perfect for night shifts.
+- 📝 **Notes & Events** — Add quick notes to any day.
+- 📲 **Installable App** — PWA + TWA on Google Play. Works on any device.
 
 ---
 
 ## 🏗️ Tech Stack
 
-| Capa | Tecnología |
-|------|-----------|
-| Frontend | Vue.js 3, CSS puro |
+| Layer | Technology |
+|-------|-----------|
+| Frontend | Vue.js 3, Pure CSS |
 | Backend | Python, FastAPI |
-| Base de datos | PostgreSQL |
+| Database | PostgreSQL |
 | Auth | FastAPI Users + JWT |
-| Hosting | VPS Linux (Nginx) |
+| Hosting | Linux VPS (Nginx) |
 | Mobile | PWA + TWA (Bubblewrap) |
 
 ---
 
-## 🎯 ¿Para quién es Turna?
+## 🎯 Who is Turna for?
 
-Diseñada para cualquier trabajador a turnos:
+Built for shift workers of all kinds:
 
-- 🏥 Enfermería, auxiliares, celadores, TCAE
-- 🚒 Bomberos, policía, seguridad privada
-- 🏭 Industria, fábricas, logística
-- 🍽️ Hostelería, transporte
-- Y cualquier trabajo con horarios rotativos
+- 🏥 Nurses, healthcare assistants, hospital staff
+- 🚒 Firefighters, police, security guards
+- 🏭 Factory workers, logistics, manufacturing
+- 🍽️ Hospitality, transport
+- And anyone with rotating schedules
 
 ---
 
 ## 📸 Screenshots
 
-![Turna - Modo oscuro](https://turna.es/img/dark.jpg)
-![Turna - Modo claro](https://turna.es/img/light.jpg)
-![Turna - Compartido](https://turna.es/img/shared.jpg)
+![Turna - Dark mode](https://turna.es/img/dark.jpg)
+![Turna - Light mode](https://turna.es/img/light.jpg)
+![Turna - Shared calendar](https://turna.es/img/shared.jpg)
 
 ---
 
 ## 🔗 Links
 
 - 🌐 Landing: [turna.es](https://turna.es)
-- 📱 App web: [app.turna.es](https://app.turna.es)
+- 📱 Web app: [app.turna.es](https://app.turna.es)
 - ▶️ Google Play: [com.jlodev.turna](https://play.google.com/store/apps/details?id=com.jlodev.turna)
 - 📸 Instagram: [@jlodev.desing](https://www.instagram.com/jlodev.desing/)
-- 💼 Desarrollado por: [JLODev](https://www.jlodev.com)
+- 💼 Built by: [JLODev](https://www.jlodev.com)
 
 ---
 
-## 📄 Privacidad
+## 📄 Privacy
 
-Turna no vende ni comparte datos con terceros. Datos cifrados en servidores europeos. [Política de privacidad](https://turna.es/privacy.html).
+Turna does not sell or share data with third parties. All data is encrypted on European servers. [Privacy policy](https://turna.es/privacy.html).
 
 ---
 
-Hecho con ❤️ por [JLODev](https://www.jlodev.com)
+Made with ❤️ by [JLODev](https://www.jlodev.com)
